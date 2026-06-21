@@ -41,8 +41,8 @@ It recommends movies based on similarity in genres using **TF-IDF Vectorization*
 ```
 Movie-Recommendation-System/
 │
-├── movie.csv          # Dataset
-├── main.py            # Main Python script
+├── movie.csv         # Dataset
+├── movie_recommendation.py            # Main Python script
 ├── README.md          # Project documentation
 └── requirements.txt   # Dependencies
 ```
@@ -106,7 +106,7 @@ Recommended Movies:
 
 ## 👨‍💻 Author
 
-Diya Krishna
+Diyakrishna
 
 ---
 
